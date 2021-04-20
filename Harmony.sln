@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmony.Core", "Harmony.Core\Harmony.Core.csproj", "{38E88E51-D2AD-447F-BE07-1C134B156CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmony", "Harmony\Harmony.csproj", "{3585ABAF-5B85-4F2C-A0BB-A727C4779266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E88E51-D2AD-447F-BE07-1C134B156CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E88E51-D2AD-447F-BE07-1C134B156CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E88E51-D2AD-447F-BE07-1C134B156CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E88E51-D2AD-447F-BE07-1C134B156CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3585ABAF-5B85-4F2C-A0BB-A727C4779266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3585ABAF-5B85-4F2C-A0BB-A727C4779266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3585ABAF-5B85-4F2C-A0BB-A727C4779266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3585ABAF-5B85-4F2C-A0BB-A727C4779266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

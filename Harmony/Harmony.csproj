@@ -6,11 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Utf8Json" Version="1.3.7" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Net" />
+      <ProjectReference Include="..\Harmony.Core\Harmony.Core.csproj" />
     </ItemGroup>
 
 </Project>
